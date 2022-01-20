@@ -1,1 +1,11 @@
+title: Harsha Mattupalli # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Software Engineer
+  <br><br>
+  <a href="mailto:harshamattupalli@gmail.com">harshamattupalli@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/harsha-mattupalli/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/harsha-mattupalli/">Gihub</a> 
 theme: jekyll-theme-minimal
