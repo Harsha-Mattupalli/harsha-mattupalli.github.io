@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/Harsha-Mattupalli/harsha-mattupalli.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Enthusiastic Software Engineer with 3+ years experience in Product Development Applications and curved myself to work in an organization where I can show my talent and enhance my skills to meet company goals and objectives.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+</p>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+### **Full Stack Developer**
+### Mindshire Consulting
 
-1. Numbered
-2. List
+06/2020 – Present
+Hyderabad, Telangana
+Responsibilities and Tasks I am doing
+● Involving in business requirement meetings.
+● Doing Analysis, Coding, modification, and
+implementation
+● Building Rest Apis.
+● MongoDB Schema designing.
+● Api documentation.
+● Integrating with backend web services in
+application.
+● Deploying code on to server.
+● Creating multiple instances and deploying on
+the server
+● Develop the UI as per the designs provided
+from the client's requirements.
+● Managing 3 team members in technical
+aspects in Designing and in coding.
+● Fixing issues in the project.
+● Team Player.
+Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Harsha-Mattupalli/harsha-mattupalli.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### INTERESTS
+Apart from being a web developer, I do social service and charitable activity.
