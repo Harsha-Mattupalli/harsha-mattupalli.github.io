@@ -21,8 +21,10 @@ Enthusiastic Software Engineer with 3+ years experience in Product Development A
 ### **Full Stack Developer**
 ### Mindshire Consulting
  ● Involving in business requirement meetings.
+ 
  ● Doing Analysis, Coding, modification, and implementation
-### ● Building Rest Apis.
+ 
+ ● Building Rest Apis.
 ### ● MongoDB Schema designing.
 ### ● Api documentation.
 ### ● Integrating with backend web services in application.
