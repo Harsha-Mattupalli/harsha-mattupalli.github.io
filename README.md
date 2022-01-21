@@ -25,15 +25,24 @@ Enthusiastic Software Engineer with 3+ years experience in Product Development A
  ● Doing Analysis, Coding, modification, and implementation
  
  ● Building Rest Apis.
-### ● MongoDB Schema designing.
-### ● Api documentation.
-### ● Integrating with backend web services in application.
-### ● Deploying code on to server.
-### ● Creating multiple instances and deploying on the server
-### ● Develop the UI as per the designs provided from the client's requirements.
-### ● Managing 3 team members in technical aspects in Designing and in coding.
-### ● Fixing issues in the project.
-### ● Team Player.
+ 
+ ● MongoDB Schema designing.
+ 
+ ● Api documentation.
+ 
+ ● Integrating with backend web services in application.
+ 
+ ● Deploying code on to server.
+ 
+ ● Creating multiple instances and deploying on the server
+ 
+ ● Develop the UI as per the designs provided from the client's requirements.
+ 
+ ● Managing 3 team members in technical aspects in Designing and in coding.
+ 
+ ● Fixing issues in the project.
+ 
+ ● Team Player.
 
 ### INTERESTS
 Apart from being a web developer, I do social service and charitable activity.
