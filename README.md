@@ -21,29 +21,18 @@ Enthusiastic Software Engineer with 3+ years experience in Product Development A
 ### **Full Stack Developer**
 ### Mindshire Consulting
 
-06/2020 – Present
-Hyderabad, Telangana
-Responsibilities and Tasks I am doing
-● Involving in business requirement meetings.
-● Doing Analysis, Coding, modification, and
-implementation
-● Building Rest Apis.
-● MongoDB Schema designing.
-● Api documentation.
-● Integrating with backend web services in
-application.
-● Deploying code on to server.
-● Creating multiple instances and deploying on
-the server
-● Develop the UI as per the designs provided
-from the client's requirements.
-● Managing 3 team members in technical
-aspects in Designing and in coding.
-● Fixing issues in the project.
-● Team Player.
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
-
-
+# ● Involving in business requirement meetings.
+### ● Doing Analysis, Coding, modification, and implementation
+### ● Building Rest Apis.
+### ● MongoDB Schema designing.
+### ● Api documentation.
+### ● Integrating with backend web services in application.
+### ● Deploying code on to server.
+### ● Creating multiple instances and deploying on the server
+### ● Develop the UI as per the designs provided from the client's requirements.
+### ● Managing 3 team members in technical aspects in Designing and in coding.
+### ● Fixing issues in the project.
+### ● Team Player.
 
 ### INTERESTS
 Apart from being a web developer, I do social service and charitable activity.
